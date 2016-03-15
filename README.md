@@ -1,3 +1,3 @@
 #Supercrypt
 
- - An application that encrypts data using the public key, and tries to access the files using 
+ - ``` app.js ``` processes: delete apps in series using the heroku commands from node
